@@ -1,0 +1,72 @@
+body {
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+
+.card {
+    width: 450px;
+    padding: 15px;
+    margin: 35px auto;
+    border-radius: 15px;
+    border : 1px solid lightgray
+}
+
+.card-img {
+    width: 100%;
+    border-radius: 15px;
+}
+.card-img2 {
+    width: 17%;
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+
+.gray-text{
+    color:rgb(105, 105, 105)
+}
+.line-break{
+    border-top: 1px solid lightgray;
+}
+
+.card-footer{
+    position: relative;
+    padding-top: 10px;
+}
+.desc-text{
+    margin-top: -37px;
+    margin-left: 96px;
+}
+
+.card-header{
+    position: relative;
+}
+
+.promoted-text{
+    background-color: red;
+    position: absolute;
+    top:0;
+    left: 21px;
+    padding: 6px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    background: rgba(0, 0, 0, 0.3);
+}
+.discounted-text{
+    background: rgb(37, 111, 239);
+    position: absolute;
+    color: white;
+    bottom: 100px;
+    padding: 5px;
+    font-size: 16px;
+}
+.delivery-text{
+    background-color: white;
+    position: absolute;
+    background-color: white;
+    position: absolute;
+    right: 26px;
+    padding: 5px;
+    border-radius: 7px;
+    bottom: 100px;
+}

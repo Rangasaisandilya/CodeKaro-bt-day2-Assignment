@@ -1,0 +1,31 @@
+.body{
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+.card{
+    width: 650px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.card-img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card-body{
+    text-align: center;
+    position: absolute;
+    top: 130px;
+    color: azure;
+}
+
+.btn{
+    padding: 15px 30px;
+    border:none;
+    color:black;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 16px;
+}
